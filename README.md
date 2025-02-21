@@ -8,7 +8,7 @@
   🤗 <a href="https://huggingface.co/collections/llm-jp/drop-upcycling-674dc5be7bbb45e12a476b80">[Hugging Face]</a>
   📁 <a href="https://gitlab.llm-jp.nii.ac.jp/datasets/llm-jp-corpus-v3">[Dataset]</a>
   💻 <a href="https://github.com/llm-jp/Drop-Upcycling">[Code]</a> |
-  📊 <a href="https://wandb.ai/llm-jp/Drop-Upcycling">[Log]</a>
+  📊 <a href="https://wandb.ai/taishi-nakamura/Drop-Upcycling">[Log]</a>
 </p>
 
 
