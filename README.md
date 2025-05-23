@@ -17,7 +17,7 @@
 The experiments were conducted using the following frameworks:
 
 ### Dense Model Training
-- Framework: [Megatron-LM](https://github.com/llm-jp/Megatron-LM](https://github.com/llm-jp/Megatron-LM/tree/936f55676ee8d8f329a3fe12f5c4e7fdc51b46f8))
+- Framework: [Megatron-LM](https://github.com/llm-jp/Megatron-LM/tree/936f55676ee8d8f329a3fe12f5c4e7fdc51b46f8)
 
 ### MoE Model Training
 - Framework: [moe-recipes](https://github.com/rioyokotalab/moe-recipes/tree/0860594e0e278d4b9cea547adb5d0177f0648a38)
