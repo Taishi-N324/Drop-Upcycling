@@ -9,7 +9,8 @@
   📁 <a href="https://gitlab.llm-jp.nii.ac.jp/datasets/llm-jp-corpus-v3">[Dataset]</a>
   💻 <a href="https://github.com/Taishi-N324/Drop-Upcycling">[Code]</a> |
   📊 <a href="https://wandb.ai/taishi-nakamura/Drop-Upcycling">[Log]</a> |
-  📰 <a href="https://llmc.nii.ac.jp/en/topics/release-of-llm-jp-3-moe-series/">[Blog]</a>
+  📰 <a href="https://llm-jp.nii.ac.jp/ja/blog/blog-603/">[Technical Blog (JP)]</a> |
+  📰 <a href="https://llmc.nii.ac.jp/en/topics/release-of-llm-jp-3-moe-series/">[Model Release Blog (EN)]</a>
 </p>
 
 ## Models Trained with Drop-Upcycling
@@ -21,7 +22,7 @@ We have released models trained using the Drop-Upcycling technique:
   🤗 <a href="https://huggingface.co/llm-jp/llm-jp-3-8x1.8b"><strong>LLM-JP-3-8x1.8B</strong></a>
 </p>
 
-These models demonstrate the practical application of our Drop-Upcycling methodology for training efficient sparse Mixture of Experts models. For more details about the model release, please see our [blog post](https://llmc.nii.ac.jp/en/topics/release-of-llm-jp-3-moe-series/).
+These models demonstrate the practical application of our Drop-Upcycling methodology for training efficient sparse Mixture of Experts models. For more details about the model release, please see our [blog post](https://llm-jp.nii.ac.jp/ja/blog/blog-603/).
 
 ## Pretraining
 
